@@ -1,3 +1,18 @@
+# Ignore OSU CFA data files 
+data/osu_cfa/
+
+# OS-specific files
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Environment variables
+# prevent committing credentials.
+.env
+.flaskenv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
