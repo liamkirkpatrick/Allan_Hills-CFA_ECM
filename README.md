@@ -4,10 +4,10 @@
 Combines analysis of Dartmouth and OSU CFA, in addition to 3D ECM records as presented in Kirkpatrick et al. (2025). 
 
 ## Contents
-- ** data/ **
+- __data/__
   - ecm/
     - ecm_datafiles/ - <i> contains ECM data files <i/>
     - ecm_angledata/ - <i> Contains 3D ECM angle data (as in Kirkpatrick et al., 2025) <i/>
   - osu_cfa/  - <i> files not availible on GitHub to preserve data privacy <i/>
-- ** scripts/ **
-  - ** ecm_core_scripts/ ** - <i> Basic ECM processing scripts <i/>
+- __scripts/__
+  - ecm_core_scripts/ - <i> Basic ECM processing scripts <i/>
