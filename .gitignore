@@ -1,5 +1,6 @@
 # Ignore OSU CFA data files 
 data/osu_cfa/
+figures/
 
 # OS-specific files
 # macOS
