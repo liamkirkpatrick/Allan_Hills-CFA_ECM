@@ -1,6 +1,7 @@
 # Ignore OSU CFA data files 
 data/osu_cfa/
 figures/
+data/scripts/hailey_IBIS_ECM/data/
 
 # OS-specific files
 # macOS
